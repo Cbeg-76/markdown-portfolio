@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image of web languages](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPRbjMBHo0bKhnpyYlAFX2rU7E1YqU3x-ATJC-kq9eqkbrLVCxcw)
